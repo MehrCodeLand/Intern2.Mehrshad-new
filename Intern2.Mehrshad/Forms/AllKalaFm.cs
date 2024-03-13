@@ -70,7 +70,7 @@ namespace Intern2.Mehrshad.Forms
             var createFm = new CreateKalaFm();
             createFm.ShowDialog();
 
-            // select 
+            // select
         }
 
         private void EditBtn_Click(object sender, EventArgs e)
